@@ -34,7 +34,7 @@ This test automation is designed to search vehicle details using webuyanycar.com
 
 1. **Clone the Repository**
    ```bash
-   git clone https://gitlab.com/afolabifatai774/car-search-automation.git
+   git clone https://github.com/Ola774/CarSearchAutomation.git
    cd CarSearchAutomation
    ```
 
